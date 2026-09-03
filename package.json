@@ -28,7 +28,7 @@
     "@ember/test-helpers": "^2.8.1",
     "@embroider/compat": "^2.0.2",
     "@embroider/core": "^2.0.2",
-    "@embroider/webpack": "^2.0.2",
+    "@embroider/webpack": "^4.1.2",
     "@glimmer/component": "^1.1.2",
     "@glimmer/tracking": "^1.1.2",
     "@tsconfig/ember": "^2.0.0",
